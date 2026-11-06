@@ -61,7 +61,7 @@
 
 <!-- HOW IT WORKS SECTION BEGINNING -->
 <div class="how_works">
-    <img src="./Essential-books.avif" alt="Essential Books">
+    <img src="./Essential-Books.avif" alt="Essential Books">
     <section data-i18n-block="how-works">
         <p>This website serves as a community for book lovers to easily buy, swap, donate, or sell second-hand books in one secure place. By giving pre-loved stories a new home, it offers an affordable way to enjoy reading while helping the environment through sustainable re-use.</p>
     </section>
@@ -114,7 +114,7 @@
             <p>We are two students from ITSP and passionate readers who decided to launch this project after noticing that there aren't many options for what to do with books that have already been read.</p>
             <br>
         </section>
-        <img class="img" src="./us.JPEG" alt="About Us">
+        <img class="img" src="./us.jpeg" alt="About Us">
         <br>
     </div>
 </div>
