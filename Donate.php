@@ -1,7 +1,7 @@
 <?php
 /* DONATE - PHP */
 /* Here we open the current session so we can check if the user is logged in and show their username in the navigation bar. */
-/* session_start() is also used on the files Main.php, Buy.php, Sell.php, Swap.php, RegisterDB.php, ErrorRegister.php, and Logout.php. */
+/* session_start() is also used on the files index.php, Buy.php, Sell.php, Swap.php, RegisterDB.php, ErrorRegister.php, and Logout.php. */
 session_start();
 ?>
 <!-- DONATE -->
@@ -56,7 +56,7 @@ session_start();
     <!-- NAVIGATION MENU -->
     <section data-i18n-block="navbar-donate">
       <div class="menu">
-        <a href="./Main.php">Home</a>
+        <a href="./index.php">Home</a>
         <a href="./Buy.php">Buy</a>
         <a href="./Sell.php">Sell</a>
         <a href="./Swap.php">Swap</a>

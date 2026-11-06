@@ -34,7 +34,7 @@
             <!-- NAVIGATION LINKS -->
             <section data-i18n-block="nav">
             <div class="menu" id="nav">
-                <a id="color" href="Main.php">Main</a>
+                <a id="color" href="index.php">Main</a>
                 <a id="access-link" href="RegisterU.php">Access</a>
             </div>
             </section>

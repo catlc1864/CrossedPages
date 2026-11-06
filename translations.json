@@ -3,8 +3,8 @@
     "buttonText": "Español",
     "buy-btn": "Buy",
 
-    "navbar": "<div class='menu'><a href='./Main.php'>Home</a><a href='./Buy.php'>Buy</a><a href='./Sell.php'>Sell</a><a href='./Swap.php'>Swap</a><a href='./Donate.php'>Donate</a></div>",
-    "nav": "<div class='menu'><a id='color' href='./Main.php'>Main</a><a href='./RegisterU.php' id='access-link'>Access</a></div>",
+    "navbar": "<div class='menu'><a href='./index.php'>Home</a><a href='./Buy.php'>Buy</a><a href='./Sell.php'>Sell</a><a href='./Swap.php'>Swap</a><a href='./Donate.php'>Donate</a></div>",
+    "nav": "<div class='menu'><a id='color' href='./index.php'>Main</a><a href='./RegisterU.php' id='access-link'>Access</a></div>",
     "main-title": "<h1>Crossed Pages</h1>",
     "how-works": "<p>This website serves as a community for book lovers to easily buy, swap, donate, or sell second-hand books in one secure place. By giving pre-loved stories a new home, it offers an affordable way to enjoy reading while helping the environment through sustainable re-use.</p>",
     "plans": "<h1 class='main-title'>Plans</h1><div class='container'><a href='Donate.php' class='grid-item item-donate'><h3 class='item-text'>Donate</h3><p class='item-text item-description'>Make a difference by sharing culture. Give away your used books so they can reach schools, libraries, or communities in need.</p></a><a href='Sell.php' class='grid-item item-sell'><h3 class='item-text'>Sell</h3><p class='item-text item-description'>Have you finished a book you no longer want? Find someone who wants it and sell it for a reasonable price.</p></a><a href='Buy.php' class='grid-item item-buy'><h3 class='item-text'>Buy</h3><p class='item-text item-description'>Discover thousands of titles at great prices. Pick your favorite book and pay securely.</p></a><a href='Swap.php' class='grid-item item-trade'><h3 class='item-text'>Trade</h3><p class='item-text item-description'>Already finished your books? Connect with other readers, offer the titles you no longer need, and trade them for new stories without spending money.</p></a></div>",
@@ -40,13 +40,13 @@
 
     "footer": "<div class='footer'><p class='credit'>Website created and designed by Catalina Ligüera and Tomás Correa.</p><div class='footer-emails'><p>catalinaliguera@gmail.com</p><p>tomascorreadurante@gmail.com</p></div><p class='credit'> ©2026 - Crossed Pages, Paysandú, Uruguay.</p></div>",
     
-    "navbar-main": "<div class='menu'><a href='./Main.php' class='active-link'>Home</a><a href='./Buy.php'>Buy</a><a href='./Sell.php'>Sell</a><a href='./Swap.php'>Swap</a><a href='./Donate.php'>Donate</a></div>",
+    "navbar-main": "<div class='menu'><a href='./index.php' class='active-link'>Home</a><a href='./Buy.php'>Buy</a><a href='./Sell.php'>Sell</a><a href='./Swap.php'>Swap</a><a href='./Donate.php'>Donate</a></div>",
     "navbar-access": "<a href='./RegisterU.php' id='access-link'>Access</a></div>",
 
-    "navbar-buy": "<div class='menu'><a href='./Main.php'>Home</a><a href='./Buy.php' class='active-link'>Buy</a><a href='./Sell.php'>Sell</a><a href='./Swap.php'>Swap</a><a href='./Donate.php'>Donate</a></div>",
-    "navbar-sell": "<div class='menu'><a href='./Main.php'>Home</a><a href='./Buy.php'>Buy</a><a href='./Sell.php' class='active-link'>Sell</a><a href='./Swap.php'>Swap</a><a href='./Donate.php'>Donate</a></div>",
-    "navbar-swap": "<div class='menu'><a href='./Main.php'>Home</a><a href='./Buy.php'>Buy</a><a href='./Sell.php'>Sell</a><a href='./Swap.php' class='active-link'>Swap</a><a href='./Donate.php'>Donate</a></div>",
-    "navbar-donate": "<div class='menu'><a href='./Main.php'>Home</a><a href='./Buy.php'>Buy</a><a href='./Sell.php'>Sell</a><a href='./Swap.php'>Swap</a><a href='./Donate.php' class='active-link'>Donate</a></div>",
+    "navbar-buy": "<div class='menu'><a href='./index.php'>Home</a><a href='./Buy.php' class='active-link'>Buy</a><a href='./Sell.php'>Sell</a><a href='./Swap.php'>Swap</a><a href='./Donate.php'>Donate</a></div>",
+    "navbar-sell": "<div class='menu'><a href='./index.php'>Home</a><a href='./Buy.php'>Buy</a><a href='./Sell.php' class='active-link'>Sell</a><a href='./Swap.php'>Swap</a><a href='./Donate.php'>Donate</a></div>",
+    "navbar-swap": "<div class='menu'><a href='./index.php'>Home</a><a href='./Buy.php'>Buy</a><a href='./Sell.php'>Sell</a><a href='./Swap.php' class='active-link'>Swap</a><a href='./Donate.php'>Donate</a></div>",
+    "navbar-donate": "<div class='menu'><a href='./index.php'>Home</a><a href='./Buy.php'>Buy</a><a href='./Sell.php'>Sell</a><a href='./Swap.php'>Swap</a><a href='./Donate.php' class='active-link'>Donate</a></div>",
     "swap-section": "<a href='Swap.php' class='swap-card'><span class='swap-icon'>&#8644;</span><div class='swap-text'><h2 class='swap-title'>Want to swap books?</h2><p class='swap-sub'>Trade the books you already read for new stories, no money needed</p></div></a>",
 
     "welcome": "Welcome",
@@ -56,8 +56,8 @@
     "buttonText": "English",
     "buy-btn": "Comprar",
 
-    "navbar": "<div class='menu'><a href='./Main.php'>Principal</a><a href='./Buy.php'>Compra</a><a href='./Sell.php'>Venta</a><a href='./Swap.php'>Intercambio</a><a href='./Donate.php'>Donaciones</a></div>",
-    "nav": "<div class='menu'><a id='color' href='./Main.php'>Principal</a><a href='./RegisterU.php' id='access-link'>Acceso</a></div>",
+    "navbar": "<div class='menu'><a href='./index.php'>Principal</a><a href='./Buy.php'>Compra</a><a href='./Sell.php'>Venta</a><a href='./Swap.php'>Intercambio</a><a href='./Donate.php'>Donaciones</a></div>",
+    "nav": "<div class='menu'><a id='color' href='./index.php'>Principal</a><a href='./RegisterU.php' id='access-link'>Acceso</a></div>",
     "main-title": "<h1>Páginas cruzadas</h1>",
     "how-works": "<p>Este sitio web sirve como una comunidad para los amantes de los libros para comprar, intercambiar, donar o vender libros de segunda mano en un solo lugar seguro. Al darle un nuevo hogar a nuevas historias, ofreces una forma accesible de disfrutar de la lectura mientras ayudas al medio ambiente a través de la reutilización sostenible.</p>",
     "plans": "<h1 class='main-title'>Planes</h1><div class='container'><a href='Donate.php' class='grid-item item-donate'><h3 class='item-text'>Donar</h3><p class='item-text item-description'>Haz la diferencia compartiendo cultura. Regala tus libros usados para que lleguen a escuelas, bibliotecas o comunidades necesitadas.</p></a><a href='Sell.php' class='grid-item item-sell'><h3 class='item-text'>Vender</h3><p class='item-text item-description'>¿Terminaste un libro que ya no quieres? Encuentra a alguien que lo quiera y véndelo a un precio razonable.</p></a><a href='Buy.php' class='grid-item item-buy'><h3 class='item-text'>Comprar</h3><p class='item-text item-description'>Descubre miles de títulos a excelentes precios. Elige tu libro favorito y paga de forma segura.</p></a><a href='Swap.php' class='grid-item item-trade'><h3 class='item-text'>Intercambiar</h3><p class='item-text item-description'>¿Ya terminaste tus libros? Conéctate con otros lectores, ofrece los títulos que ya no necesitas e intercámbialos por nuevas historias sin gastar dinero.</p></a></div>",
@@ -93,13 +93,13 @@
 
     "footer": "<div class='footer'><p class='credit'>Sitio web creado y diseñado por Catalina Ligüera y Tomás Correa.</p><div class='footer-emails'><p>catalinaliguera@gmail.com</p><p>tomascorreadurante@gmail.com</p></div><p class='credit'> ©2026 - paginas cruzadas, Paysandú, Uruguay.</p></div>",
     
-    "navbar-main": "<div class='menu'><a href='./Main.php' class='active-link'>Principal</a><a href='./Buy.php'>Compra</a><a href='./Sell.php'>Venta</a><a href='./Swap.php'>Intercambio</a><a href='./Donate.php'>Donaciones</a></div>",
+    "navbar-main": "<div class='menu'><a href='./index.php' class='active-link'>Principal</a><a href='./Buy.php'>Compra</a><a href='./Sell.php'>Venta</a><a href='./Swap.php'>Intercambio</a><a href='./Donate.php'>Donaciones</a></div>",
     "navbar-access": "<a href='./RegisterU.php' id='access-link'>Acceso</a></div>",
     
-    "navbar-buy": "<div class='menu'><a href='./Main.php'>Principal</a><a href='./Buy.php' class='active-link'>Compra</a><a href='./Sell.php'>Venta</a><a href='./Swap.php'>Intercambio</a><a href='./Donate.php'>Donaciones</a></div>",
-    "navbar-sell": "<div class='menu'><a href='./Main.php'>Principal</a><a href='./Buy.php'>Compra</a><a href='./Sell.php' class='active-link'>Venta</a><a href='./Swap.php'>Intercambio</a><a href='./Donate.php'>Donaciones</a></div>",
-    "navbar-swap": "<div class='menu'><a href='./Main.php'>Principal</a><a href='./Buy.php'>Compra</a><a href='./Sell.php'>Venta</a><a href='./Swap.php' class='active-link'>Intercambio</a><a href='./Donate.php'>Donaciones</a></div>",
-    "navbar-donate": "<div class='menu'><a href='./Main.php'>Principal</a><a href='./Buy.php'>Compra</a><a href='./Sell.php'>Venta</a><a href='./Swap.php'>Intercambio</a><a href='./Donate.php' class='active-link'>Donaciones</a></div>",
+    "navbar-buy": "<div class='menu'><a href='./index.php'>Principal</a><a href='./Buy.php' class='active-link'>Compra</a><a href='./Sell.php'>Venta</a><a href='./Swap.php'>Intercambio</a><a href='./Donate.php'>Donaciones</a></div>",
+    "navbar-sell": "<div class='menu'><a href='./index.php'>Principal</a><a href='./Buy.php'>Compra</a><a href='./Sell.php' class='active-link'>Venta</a><a href='./Swap.php'>Intercambio</a><a href='./Donate.php'>Donaciones</a></div>",
+    "navbar-swap": "<div class='menu'><a href='./index.php'>Principal</a><a href='./Buy.php'>Compra</a><a href='./Sell.php'>Venta</a><a href='./Swap.php' class='active-link'>Intercambio</a><a href='./Donate.php'>Donaciones</a></div>",
+    "navbar-donate": "<div class='menu'><a href='./index.php'>Principal</a><a href='./Buy.php'>Compra</a><a href='./Sell.php'>Venta</a><a href='./Swap.php'>Intercambio</a><a href='./Donate.php' class='active-link'>Donaciones</a></div>",
     "swap-section": "<a href='Swap.php' class='swap-card'><span class='swap-icon'>&#8644;</span><div class='swap-text'><h2 class='swap-title'>¿Quieres intercambiar libros?</h2><p class='swap-sub'>Cambia los libros que ya leíste por nuevas historias, sin gastar dinero</p></div></a>",
 
     "welcome": "Bienvenido",

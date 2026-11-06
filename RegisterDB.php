@@ -4,7 +4,7 @@
  (to check credentials and start the session). */
 
 //Here we start the session so the website can save error/success messages (used on ErrorRegister.php) and remember who is logged in across pages.
-//This function is also used on the files ErrorRegister.php, Logout.php, Main.php, Buy.php, Sell.php, Swap.php, and Donate.php.
+//This function is also used on the files ErrorRegister.php, Logout.php, index.php, Buy.php, Sell.php, Swap.php, and Donate.php.
 session_start();
 
 //Here we bring in the code from "Config.php" so we can use the $conn (connection) variable (taken from Config.php) to talk to our MySQL database.
@@ -60,11 +60,11 @@ if (isset($_POST['login'])) {
         //Here we use password_verify() to check if the password the user typed ($password) matches the encrypted password saved in the database ($user['password']).
         if (password_verify($password, $user['password'])) {
             //If the password is correct, we save the user's name and email inside $_SESSION so the rest of the website knows they are logged in.
-            //$_SESSION['name'] is later taken and used on the files Main.php, Buy.php, Sell.php, Swap.php, and Donate.php to show the welcome message.
+            //$_SESSION['name'] is later taken and used on the files index.php, Buy.php, Sell.php, Swap.php, and Donate.php to show the welcome message.
             $_SESSION['name'] = $user['name'];
             $_SESSION['email'] = $user['email'];
-            //Then we send the user to the main page (Main.php) and stop the code here with exit().
-            header("Location: Main.php");
+            //Then we send the user to the main page (index.php) and stop the code here with exit().
+            header("Location: index.php");
             exit();
         }
     }

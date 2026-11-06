@@ -55,7 +55,7 @@ session_start();
       <!-- NAVIGATION MENU -->
       <section data-i18n-block="navbar-buy">
         <div class="menu">
-          <a href="./Main.php">Home</a>
+          <a href="./index.php">Home</a>
           <a href="./Buy.php" class="active-link">Buy</a>
           <a href="./Sell.php">Sell</a>
           <a href="./Swap.php">Swap</a>

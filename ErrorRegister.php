@@ -3,7 +3,7 @@
 /* Here we have the file that reads error and success messages from the session and displays them on RegisterU.php. */
 
 //First we open the current session so we can read any error or success messages saved by RegisterDB.php.
-//This function is also used on the files RegisterDB.php, Logout.php, Main.php, Buy.php, Sell.php, Swap.php, and Donate.php.
+//This function is also used on the files RegisterDB.php, Logout.php, index.php, Buy.php, Sell.php, Swap.php, and Donate.php.
 session_start();
 
 //Here we create an array called $errors to store login or registration error messages (taken from RegisterDB.php).
